@@ -39,3 +39,7 @@ img {
 #Welcome {
     font-family: 'Henny Penny', cursive;
 }
+
+html {
+    scroll-behavior: smooth;
+}
